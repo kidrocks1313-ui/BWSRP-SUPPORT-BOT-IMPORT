@@ -1,0 +1,1 @@
+- [Discord bot as background service](discord-bot-service.md) — bot runs inside api-server process (not a separate artifact), stays online via the workflow.
